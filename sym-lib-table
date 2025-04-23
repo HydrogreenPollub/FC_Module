@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Driver mosfet Michał")(type "KiCad")(uri "${KIPRJMOD}/Library/2EDN8534FXTMA1.kicad_sym")(options "")(descr "Chuj"))
+  (lib (name "IRFP4468PBF")(type "KiCad")(uri "${KIPRJMOD}/Library/IRFP4468PBF.kicad_sym")(options "")(descr ""))
+  (lib (name "LTS_25-NP")(type "KiCad")(uri "${KIPRJMOD}/Library/LTS_25-NP.kicad_sym")(options "")(descr ""))
+  (lib (name "LEM HO-25-p")(type "KiCad")(uri "${KIPRJMOD}/Library/2025-04-17_13-56-11.kicad_sym")(options "")(descr ""))
+)

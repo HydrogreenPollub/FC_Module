@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTS_25-NP
+D Current transducer
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-16/DSA-314834.pdf
+$ENDCMP
+#
+#End Doc Library
